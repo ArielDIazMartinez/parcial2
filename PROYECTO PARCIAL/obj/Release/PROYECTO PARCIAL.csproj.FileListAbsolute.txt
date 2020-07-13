@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\PROYECTO PARCIAL\bin\Release\PROYECTO PARCIAL.exe.config
+C:\Users\Asus\Desktop\PROYECTO PARCIAL\bin\Release\PROYECTO PARCIAL.exe
+C:\Users\Asus\Desktop\PROYECTO PARCIAL\bin\Release\PROYECTO PARCIAL.pdb
+C:\Users\Asus\Desktop\PROYECTO PARCIAL\obj\Release\PROYECTO PARCIAL.exe
+C:\Users\Asus\Desktop\PROYECTO PARCIAL\obj\Release\PROYECTO PARCIAL.pdb

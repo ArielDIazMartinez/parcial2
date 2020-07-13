@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\PROYECTO PARCIAL\bin\Debug\PROYECTO PARCIAL.exe.config
+C:\Users\Asus\Desktop\PROYECTO PARCIAL\bin\Debug\PROYECTO PARCIAL.exe
+C:\Users\Asus\Desktop\PROYECTO PARCIAL\bin\Debug\PROYECTO PARCIAL.pdb
+C:\Users\Asus\Desktop\PROYECTO PARCIAL\obj\Debug\PROYECTO PARCIAL.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\PROYECTO PARCIAL\obj\Debug\PROYECTO PARCIAL.exe
+C:\Users\Asus\Desktop\PROYECTO PARCIAL\obj\Debug\PROYECTO PARCIAL.pdb
